@@ -19,7 +19,7 @@ For Running the BiddingCarService Appliation Follow Below Steps:
 6. Once you got token now copy that token and to run any of api in Header tab of postman
    create a new key-value pair key as Authorization and value as Bearer token
 
-![img.png](img.png)
+![TokenPass](https://user-images.githubusercontent.com/24639055/235339586-6e57daf1-d39b-4e3c-b3f6-497c153c9810.jpg)
 
 7. Now Run API
 
