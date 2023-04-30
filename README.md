@@ -1,6 +1,6 @@
 # CarBiddingService
 
-For Running the BiddingCarService Appliation Follow Below Steps:
+For Running the CarBiddingService Appliation Follow Below Steps:
 
 1. First Use Java 11 Version and MysSql as database
 2. In Application.properties file change the spring.datasource.url,spring.datasource.username,
