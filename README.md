@@ -27,21 +27,23 @@ Please find below all Screenshot of 5 API :
 
 1. api/v1/auction/token
 
-![img_1.png](img_1.png)
+![TokenAPI](https://user-images.githubusercontent.com/24639055/235339629-2bf1e2b4-c8c0-4295-86b3-cf6dada4eb45.jpg)
+
 
 2. api/v1/auction/createAuction
 
-![img_2.png](img_2.png)
+![createAuction](https://user-images.githubusercontent.com/24639055/235339676-9973bef8-ec15-4bf8-be8f-8005dbc8034e.jpg)
+
 
 3. api/v1/auction/status/98
 
-![img_3.png](img_3.png)
+![AuctionStatus](https://user-images.githubusercontent.com/24639055/235339706-0284b450-4ec8-4fd9-9778-14ed922f6a4a.jpg)
 
 4. pi/v1/auction/placeBid?auctionId=98&dealerId=99&bidAmount=12000000000
 
-![img_4.png](img_4.png)
+![placeBid](https://user-images.githubusercontent.com/24639055/235339751-9b7f362b-241d-417e-b50e-e30eac720294.jpg)
 
 5.api/v1/auction/details/98/winner-bid
 
-![img_5.png](img_5.png)
+![WinnerBid](https://user-images.githubusercontent.com/24639055/235339777-8e8957a0-01a3-4de2-87b8-d10a21ed8116.jpg)
 
