@@ -1,7 +1,4 @@
 # CarBiddingService
-Assessment of Cars24*7
-
-# BiddingCarService
 
 For Running the BiddingCarService Appliation Follow Below Steps:
 
